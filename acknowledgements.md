@@ -4,10 +4,10 @@
 
 This application uses images and other content from the following sources:
 
-- **Stock Market Loop/GIF Provided by xponentialdesign on GIPHY Website**: [(https://giphy.com/gifs/JtBZm3Getg3dqxK0zP)](Link to the image or source)  
+- **Stock Market Loop/GIF Provided by xponentialdesign on GIPHY Website**: (https://giphy.com/gifs/JtBZm3Getg3dqxK0zP) 
   Licensed under [xponentialdesign](Link to the license).
 
-- **No Touching/Wolf of Wallstreet Margot Robie Scene No Touching GIF**: [(http://www.buzzfeed.com/stephanieanderson/dating-with-margot-robbie-gifs)](Link to the image or source) 
+- **No Touching/Wolf of Wallstreet Margot Robie Scene No Touching GIF**: (http://www.buzzfeed.com/stephanieanderson/dating-with-margot-robbie-gifs)
 
 We thank the creators for making their work available.
 
