@@ -1,4 +1,4 @@
-# [Smart Stocks] Software License Agreement
+# Smart Stocks Software License Agreement
 
 This Software License Agreement ("Agreement") is made and entered into by and between [Smart Stocks] ("Licensor") and the user ("Licensee") who purchases or downloads the software ("Software").
 
@@ -25,14 +25,14 @@ The Software is provided "AS IS" without warranty of any kind, express or implie
 In no event shall Licensor be liable for any indirect, incidental, special, or consequential damages, or damages for loss of profits, revenue, data, or use, incurred by Licensee or any third party, whether in an action in contract or tort, arising from Licensee's access to, or use of, the Software.
 
 ## 7. Governing Law
-This Agreement shall be governed by and construed in accordance with the laws of [Pennsylvania], without regard to its conflict of law principles.
+This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania, without regard to its conflict of law principles.
 
 ## 8. Entire Agreement
 This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous understandings, representations, or agreements, written or oral, regarding its subject matter.
 
 By using the Software, Licensee agrees to be bound by the terms and conditions of this Agreement.
 
-[Smart Stocks]  
-[Jacob E Bickus
+Smart Stocks  
+Jacob E Bickus
 smart_stocks_creator@gmail.com
-Pittsburgh, PA ]
+Pittsburgh, PA 
